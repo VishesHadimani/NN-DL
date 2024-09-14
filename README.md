@@ -1,2 +1,2 @@
-#### 21AI72
-### Neural Networks and Deep Learning
+# 21AI72
+## Neural Networks and Deep Learning
